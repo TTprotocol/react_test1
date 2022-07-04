@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-import ImportConponent from './R010'
+import ImportConponent from './R011'
 
 function App() {
   return (
