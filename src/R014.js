@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, {} from 'react';
 
 const R014 = () => {
     var Arr = [3, 2, 8, 8];
