@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import React from 'react';
-// import ImportConponent from './R013'
+import ImportConponent from './R015'
 import Controllertest from './src/Controllers/test';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <h1>Start React 200</h1>
       <p>HTML 적용하기</p>
-      {/* <ImportConponent/> */}
+      <ImportConponent/>
       <Controllertest/>
     </div>
   );

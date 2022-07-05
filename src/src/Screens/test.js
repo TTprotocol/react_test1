@@ -26,21 +26,5 @@ const Screens = () => {
         </div>
     )
 }
-// class Screens extends React {
-//     constructor(props) {
-//         super(props);
-//         this.state = {};
-//     }
-
-//     render() {
-//         return (
-//             <div>
-//                 <text>
-//                     test1
-//                 </text>
-//             </div>
-//         )
-//     }
-// }
 
 export default Screens;
