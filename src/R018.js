@@ -1,4 +1,5 @@
 import React, {} from 'react';
+import datatype from 'prop-types';
 
 const R018 = (props) => {
     let {String, Number, Boolean, Array, Json, Function} = props
@@ -12,6 +13,10 @@ const R018 = (props) => {
             <p>FunctionProps: {Function}</p>
         </div>
     )
+}
+
+Propsdatatype.propTypes = {
+    String: datatype.number,
 }
 
 export default R018;
