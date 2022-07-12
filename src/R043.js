@@ -19,9 +19,9 @@ const R043 = () => {
                 Fade In/Out
             </Button>
             <Fade in={fadecontroll} tag="h1">
-                test Text in here!
+                start to write text!
                 <br />
-                Write Anything in here!
+                anything you want!
             </Fade>
         </div>
     );
